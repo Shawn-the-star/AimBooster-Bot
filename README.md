@@ -18,3 +18,4 @@ pip install pyautogui
 pip install keyboard
 pip install time
 ```
+**NOTE** python version must be lower than 3.8
